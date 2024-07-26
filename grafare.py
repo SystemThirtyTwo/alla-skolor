@@ -14,7 +14,7 @@ sorted_skolor3 = []
 
 def opening():
     global kommun 
-    kommun = input("Vilken kommun vill du grafa? Använd '*' för att grafa alla! ")
+    kommun = input("Vilken kommun vill du göra en graf av? Använd '*' för att grafa alla! ")
 
 opening()
 
